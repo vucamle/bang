@@ -1,0 +1,67 @@
+body
+{
+    background-color: rgb(140, 29, 163);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all__one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+    background-color: aliceblue;
+    margin-right: 2rem;
+}
+.all__one i{
+  
+  font-size: 5rem;
+    background-color:right red, left blue ;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30rem;
+    width: 45rem;
+    background-color: white;
+    margin-top: 4rem;
+}
+
+.two__mot button{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 15px;
+    border: 0ch;
+    background-color: grey;
+    margin-bottom: 0.5rem;
+    
+}
+
+   
+.two__hai button{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 15px;
+    border: 0ch;
+    background-color: grey;
+    margin-bottom: 2rem;
+}
+.two__vi button{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 15px;
+    border: 0ch;
+    background-color: green;
+    margin-bottom: 0.7rem;
+}
+span{
+   
+    color: grey;
+}
+.metmanh{
+    align-items: flex-end;
+}
+
